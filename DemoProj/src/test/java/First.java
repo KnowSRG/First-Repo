@@ -5,6 +5,7 @@ public class First {
 	public static void print()
 	{
 		System.out.println(" test");
+		System.out.println("test1");
 	}
 	
 	
